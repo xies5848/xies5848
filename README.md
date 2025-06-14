@@ -4,7 +4,8 @@
 - 🔭 I’m currently building **Mocktopus** with my team — a full-stack AI-powered mock interview platform.
 
 
-- 📫 How to reach me: **xies5848@gmail.com**
+- 🙌 Always excited to connect and collaborate on inspiring projects!
+- 📫 You can reach me at: **xies5848@gmail.com**
 
 <hr/>
 <h3 align="left">Connect with me:</h3> <p>
