@@ -26,3 +26,13 @@ Databases
 Frontend Technologies
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xies5848&show_icons=true&theme=default" width="48%" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=xies5848&theme=default" width="48%" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xies5848&layout=compact&theme=default" width="48%" />
+</p>
