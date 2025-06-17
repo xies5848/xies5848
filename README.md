@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuang (Serenity) Xie</h1>
-<h3 align="center">Full-Stack Software Engineer; Ph.D. Candidate (ABD) @ Penn State University; MCIT (CS) student @ UPenn</h3>
+<h3 align="center">Full-Stack Software Engineer; Applied AI Engineer; MCIT (CS) student @ UPenn</h3>
 
 - 🔭 I’m currently building **Mocktopus** with my team — a full-stack AI-powered mock interview platform.
 
