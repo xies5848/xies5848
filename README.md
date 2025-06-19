@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shuang (Serenity) Xie</h1>
 <h3 align="center">Full-Stack Software Engineer; Applied AI Engineer; MCIT (CS) student @ UPenn</h3>
 
-- 🔭 I’m currently building **Mocktopus** with my team — a full-stack AI-powered mock interview platform.
-
-
+- 👩🏻‍💻 Currently an AI/ML Engineer Intern at an AI+EdTech startup, building AI-driven solutions to promote educational equity in rural areas.
+- 🔭 I’m also building **Mocktopus** with my team — a full-stack AI-powered mock interview platform.
 - 🙌 Always excited to connect and collaborate on inspiring projects!
 - 📫 You can reach me at: **xies5848@gmail.com**
 
